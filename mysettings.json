@@ -21,10 +21,11 @@
         "id":"786d1602-3cc9-405f-87c7-446c84cd92a8",
         "network":"tcp",
         "path":"/",
-        "port":"1000",
+        "port":1000,
         "protocol":"vmess",
         "ps":"美国4上网使用",
         "security":"auto",
+        "sni":"94.v2nb.cf",
         "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
         "tls":"tls",
         "type":"none"
@@ -83,7 +84,8 @@
         "protocol":"shadowsocks",
         "ps":"新加坡地球使用",
         "security":"chacha20-ietf-poly1305",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json"
+        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "tls":""
     },
     {
         "address":"203.66.168.122",
@@ -107,7 +109,7 @@
         "id":"9c97bd11-d4e8-31d7-b2c1-a06fe6898074",
         "network":"ws",
         "path":"/j20",
-        "port":"4397",
+        "port":4397,
         "protocol":"vmess",
         "ps":"美国2上网使用",
         "security":"auto",
@@ -122,10 +124,11 @@
         "id":"ef3c6aa0-e5f2-4332-bad8-17c0438dfaa3",
         "network":"ws",
         "path":"/ray",
-        "port":"443",
+        "port":443,
         "protocol":"vmess",
         "ps":"美国5上网使用",
         "security":"auto",
+        "sni":"",
         "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
         "tls":"tls",
         "type":"none"
@@ -143,6 +146,20 @@
         "security":"auto",
         "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
         "tls":"tls",
+        "type":"none"
+    },
+    {
+        "address":"45.154.197.60",
+        "alterId":2,
+        "host":"",
+        "id":"9ba907be-f470-4013-8452-b4cb3ba1f007",
+        "network":"tcp",
+        "path":"/",
+        "port":"20080",
+        "protocol":"vmess",
+        "ps":"香港z上网",
+        "security":"auto",
+        "tls":"",
         "type":"none"
     }
 ]
