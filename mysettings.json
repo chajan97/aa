@@ -166,35 +166,6 @@
         "type":"none"
     },
     {
-        "address":"143.92.44.177",
-        "alterId":2,
-        "host":"",
-        "id":"9ba907be-f470-4013-8452-b4cb3ba1f007",
-        "network":"tcp",
-        "path":"/",
-        "port":20080,
-        "protocol":"vmess",
-        "ps":"KH_1647上网",
-        "security":"auto",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
-        "tls":"",
-        "type":"none"
-    },
-    {
-        "address":"124.90.167.156",
-        "alterId":16,
-        "host":"us.199301.xyz",
-        "id":"fd00927a-b0c2-4629-aef7-d9ff15a9d722",
-        "network":"ws",
-        "path":"/websocket",
-        "port":30010,
-        "protocol":"vmess",
-        "ps":"CN_536上网",
-        "security":"auto",
-        "tls":"",
-        "type":"none"
-    },
-    {
         "address":"120.232.43.195",
         "alterId":2,
         "host":"j7.yt002.xyz",
@@ -206,6 +177,7 @@
         "ps":"CN_538上网",
         "security":"auto",
         "sni":"j7.yt002.xyz",
+        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
         "tls":"tls",
         "type":"none"
     },
@@ -221,6 +193,7 @@
         "ps":"CN_539上网",
         "security":"auto",
         "sni":"s8.yt004.xyz",
+        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
         "tls":"tls",
         "type":"none"
     }
