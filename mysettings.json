@@ -11,7 +11,7 @@
         "ps":"美国1上网使用",
         "security":"auto",
         "sni":"www.64140222.xyz",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
     },
@@ -27,7 +27,7 @@
         "ps":"美国4上网使用",
         "security":"auto",
         "sni":"94.v2nb.cf",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
     },
@@ -38,11 +38,11 @@
         "id":"f55d30c0-0644-4f25-bfe9-9f5931649a6b",
         "network":"ws",
         "path":"",
-        "port":"4503",
+        "port":4503,
         "protocol":"vmess",
         "ps":"香港1地球使用",
         "security":"auto",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
         "type":"none"
     },
@@ -58,7 +58,7 @@
         "ps":"新加坡1上网使用",
         "security":"auto",
         "sni":"digitalocean.haoren.ml",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
     },
@@ -74,7 +74,7 @@
         "ps":"法国上网使用",
         "security":"auto",
         "sni":"consum2.cukee.cc",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
     },
@@ -86,7 +86,7 @@
         "protocol":"shadowsocks",
         "ps":"新加坡地球使用",
         "security":"chacha20-ietf-poly1305",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":""
     },
     {
@@ -100,7 +100,7 @@
         "protocol":"vmess",
         "ps":"台湾上网使用",
         "security":"auto",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
         "type":"none"
     },
@@ -115,7 +115,7 @@
         "protocol":"vmess",
         "ps":"美国2上网使用",
         "security":"auto",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
         "type":"none"
     },
@@ -131,7 +131,7 @@
         "ps":"美国5上网使用",
         "security":"auto",
         "sni":"",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
     },
@@ -146,7 +146,7 @@
         "protocol":"vmess",
         "ps":"CN_536上网",
         "security":"auto",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
         "type":"none"
     },
@@ -161,7 +161,7 @@
         "protocol":"vmess",
         "ps":"CN_540上网",
         "security":"auto",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
         "type":"none"
     },
@@ -177,7 +177,7 @@
         "ps":"CN_538上网",
         "security":"auto",
         "sni":"j7.yt002.xyz",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
     },
@@ -193,8 +193,22 @@
         "ps":"CN_539上网",
         "security":"auto",
         "sni":"s8.yt004.xyz",
-        "subscribeUrl":"https://raw.githubusercontent.com/chajan97/aa/main/mysettings.json",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
+        "type":"none"
+    },
+    {
+        "address":"13.248.128.117",
+        "alterId":2,
+        "host":"",
+        "id":"6da784ad-9f2b-4bfe-dd0b-580b9e6d8615",
+        "network":"tcp",
+        "path":"/",
+        "port":"20401",
+        "protocol":"vmess",
+        "ps":"US_3173上网",
+        "security":"auto",
+        "tls":"",
         "type":"none"
     }
 ]
