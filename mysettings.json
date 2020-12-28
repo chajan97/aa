@@ -58,6 +58,7 @@
         "tls":""
     },
     {
+        "active":true,
         "address":"203.66.168.122",
         "alterId":2,
         "host":"",
@@ -136,64 +137,6 @@
         "type":"none"
     },
     {
-        "active":true,
-        "address":"121.12.76.76",
-        "alterId":1,
-        "host":"www.bing.com",
-        "id":"ccc3982e-d00d-37ee-ab30-c957c6b3db4e",
-        "network":"ws",
-        "path":"/v2ray",
-        "port":10029,
-        "protocol":"vmess",
-        "ps":"高速1上网",
-        "security":"auto",
-        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
-        "tls":"",
-        "type":"none"
-    },
-    {
-        "address":"120.232.172.68",
-        "alterId":1,
-        "host":"www.bing.com",
-        "id":"ccc3982e-d00d-37ee-ab30-c957c6b3db4e",
-        "network":"ws",
-        "path":"/v2ray",
-        "port":20010,
-        "protocol":"vmess",
-        "ps":"高速c上网",
-        "security":"auto",
-        "tls":"",
-        "type":"none"
-    },
-    {
-        "address":"139.180.201.218",
-        "alterId":12,
-        "host":"chinahr.cf",
-        "id":"8a884d88-45cb-11eb-a4b6-5600031d895f",
-        "network":"ws",
-        "path":"/D8mih60a/",
-        "port":"443",
-        "protocol":"vmess",
-        "ps":"菲律宾a上网",
-        "security":"auto",
-        "tls":"tls",
-        "type":"none"
-    },
-    {
-        "address":"8.210.136.101",
-        "alterId":1,
-        "host":"s72.snode.xyz",
-        "id":"eb9d626c-2d6f-384e-ad8d-20dc02f6ecea",
-        "network":"ws",
-        "path":"/panel",
-        "port":"443",
-        "protocol":"vmess",
-        "ps":"香港a上网",
-        "security":"auto",
-        "tls":"tls",
-        "type":"none"
-    },
-    {
         "address":"consum2.cukee.cc",
         "alterId":64,
         "host":"consum2.cukee.cc",
@@ -204,6 +147,7 @@
         "protocol":"vmess",
         "ps":"法国上网使用",
         "security":"auto",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
     }
