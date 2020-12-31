@@ -1,5 +1,20 @@
 [
     {
+        "address":"202.81.235.61",
+        "alterId":64,
+        "host":"nameless-silence-5f13.chentomcat3.workers.dev",
+        "id":"ad806487-2d26-4636-98b6-ab85cc8521f7",
+        "network":"ws",
+        "path":"/",
+        "port":443,
+        "protocol":"vmess",
+        "ps":"MyNode",
+        "security":"auto",
+        "sni":"nameless-silence-5f13.chentomcat3.workers.dev",
+        "tls":"tls",
+        "type":"none"
+    },
+    {
         "address":"142.4.126.129",
         "alterId":64,
         "host":"www.64140222.xyz",
@@ -59,21 +74,6 @@
     },
     {
         "active":true,
-        "address":"203.66.168.122",
-        "alterId":2,
-        "host":"",
-        "id":"904b1e08-f6cb-4451-d879-262c6cf3b372",
-        "network":"ws",
-        "path":"/dwn",
-        "port":14080,
-        "protocol":"vmess",
-        "ps":"台湾上网使用",
-        "security":"auto",
-        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
-        "tls":"",
-        "type":"none"
-    },
-    {
         "address":"www.aech.cc",
         "alterId":64,
         "host":"",
@@ -106,6 +106,7 @@
         "type":"none"
     },
     {
+        "active":true,
         "address":"120.232.43.195",
         "alterId":2,
         "host":"s8.yt004.xyz",
@@ -117,36 +118,6 @@
         "ps":"高速3上网",
         "security":"auto",
         "sni":"s8.yt004.xyz",
-        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
-        "tls":"tls",
-        "type":"none"
-    },
-    {
-        "address":"13.248.128.117",
-        "alterId":2,
-        "host":"",
-        "id":"6da784ad-9f2b-4bfe-dd0b-580b9e6d8615",
-        "network":"tcp",
-        "path":"/",
-        "port":20401,
-        "protocol":"vmess",
-        "ps":"高速2上网",
-        "security":"auto",
-        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
-        "tls":"",
-        "type":"none"
-    },
-    {
-        "address":"consum2.cukee.cc",
-        "alterId":64,
-        "host":"consum2.cukee.cc",
-        "id":"02914F25-41C8-3114-50F3-19359B631C77",
-        "network":"ws",
-        "path":"/",
-        "port":443,
-        "protocol":"vmess",
-        "ps":"法国上网使用",
-        "security":"auto",
         "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
