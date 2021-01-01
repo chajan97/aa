@@ -11,6 +11,7 @@
         "ps":"MyNode",
         "security":"auto",
         "sni":"nameless-silence-5f13.chentomcat3.workers.dev",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
     },
@@ -47,6 +48,7 @@
         "type":"none"
     },
     {
+        "active":true,
         "address":"sh.v2ky.co",
         "alterId":1,
         "host":"",
@@ -60,17 +62,6 @@
         "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
         "type":"none"
-    },
-    {
-        "address":"gz.v2ky.co",
-        "id":"f55d30c0-0644-4f25-bfe9-9f5931649a6b",
-        "network":"tcp",
-        "port":4605,
-        "protocol":"shadowsocks",
-        "ps":"新加坡地球使用",
-        "security":"chacha20-ietf-poly1305",
-        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
-        "tls":""
     },
     {
         "active":true,
@@ -119,6 +110,48 @@
         "security":"auto",
         "sni":"s8.yt004.xyz",
         "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
+        "tls":"tls",
+        "type":"none"
+    },
+    {
+        "address":"172.64.167.116",
+        "alterId":2,
+        "host":"nameless-dream-5742.chentomcat3.workers.dev",
+        "id":"a4bcd649-a55d-4f64-9b76-848c1f0a5f46",
+        "network":"ws",
+        "path":"/23907adb/",
+        "port":"443",
+        "protocol":"vmess",
+        "ps":"美国高速US_3097",
+        "security":"auto",
+        "tls":"tls",
+        "type":"none"
+    },
+    {
+        "address":"shandong01.vq1021.site",
+        "alterId":1,
+        "host":"shandong01.vq1021.site",
+        "id":"dc2959e9-3250-35ff-ab74-ce100405af2e",
+        "network":"ws",
+        "path":"/v2ray",
+        "port":"64328",
+        "protocol":"vmess",
+        "ps":"新加坡高速CN_478",
+        "security":"auto",
+        "tls":"",
+        "type":"none"
+    },
+    {
+        "address":"202.81.235.92",
+        "alterId":64,
+        "host":"curly-dawn-a00d.chentomcat3.workers.dev",
+        "id":"ef3c6aa0-e5f2-4332-bad8-17c0438dfaa3",
+        "network":"ws",
+        "path":"/ray",
+        "port":"443",
+        "protocol":"vmess",
+        "ps":"美国高速US_3128",
+        "security":"auto",
         "tls":"tls",
         "type":"none"
     }
