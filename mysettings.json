@@ -1,21 +1,5 @@
 [
     {
-        "address":"13.248.209.186",
-        "alterId":2,
-        "host":"94.v2nb.cf",
-        "id":"786d1602-3cc9-405f-87c7-446c84cd92a8",
-        "network":"tcp",
-        "path":"/",
-        "port":1000,
-        "protocol":"vmess",
-        "ps":"美国4上网使用",
-        "security":"auto",
-        "sni":"94.v2nb.cf",
-        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
-        "tls":"tls",
-        "type":"none"
-    },
-    {
         "active":true,
         "address":"120.240.48.250",
         "alterId":2,
@@ -102,7 +86,24 @@
         "protocol":"vmess",
         "ps":"香港谷歌地球",
         "security":"auto",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
+        "type":"none"
+    },
+    {
+        "active":true,
+        "address":"13.248.157.101",
+        "alterId":64,
+        "host":"aga-sg.ide.wtf",
+        "id":"b792eb69-f120-4956-bf79-571696ff48fb",
+        "network":"ws",
+        "path":"/tg-sharecentre/speedtest/10mb.bin",
+        "port":11051,
+        "protocol":"vmess",
+        "ps":"新加坡高速",
+        "security":"auto",
+        "sni":"aga-sg.ide.wtf",
+        "tls":"tls",
         "type":"none"
     }
 ]
