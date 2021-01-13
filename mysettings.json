@@ -105,5 +105,20 @@
         "sni":"aga-sg.ide.wtf",
         "tls":"tls",
         "type":"none"
+    },
+    {
+        "address":"104.19.234.120",
+        "alterId":64,
+        "host":"throbbing-block-0c51.chentomcat3.workers.dev",
+        "id":"ad806487-2d26-4636-98b6-ab85cc8521f7",
+        "network":"ws",
+        "path":"/",
+        "port":443,
+        "protocol":"vmess",
+        "ps":"自建VPS",
+        "security":"auto",
+        "sni":"throbbing-block-0c51.chentomcat3.workers.dev",
+        "tls":"tls",
+        "type":"none"
     }
 ]
