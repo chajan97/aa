@@ -1,35 +1,17 @@
 [
     {
-        "address":"104.16.116.27",
-        "alterId":64,
-        "host":"nameless-silence-5f13.chentomcat3.workers.dev",
-        "id":"ad806487-2d26-4636-98b6-ab85cc8521f7",
-        "network":"ws",
-        "path":"/",
-        "port":443,
-        "protocol":"vmess",
-        "ps":"MyNode",
-        "security":"auto",
-        "sni":"nameless-silence-5f13.chentomcat3.workers.dev",
-        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
-        "tls":"tls",
-        "type":"none"
-    },
-    {
-        "address":"aga.nayun.xyz",
-        "alterId":0,
-        "host":"hkshop.nayun.xyz",
-        "id":"f5ba93b4-eba8-449a-bf22-da465fd07e1c",
-        "network":"ws",
-        "path":"/8ac1",
-        "port":21050,
-        "protocol":"vmess",
-        "ps":"美国高速AA",
-        "security":"auto",
-        "sni":"hkshop.nayun.xyz",
-        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
-        "tls":"tls",
-        "type":"none"
+        "active":true,
+        "address":"31.171.154.149",
+        "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
+        "plugin":"",
+        "plugin_opts":{
+
+        },
+        "port":33992,
+        "protocol":"shadowsocks",
+        "ps":"AL_22",
+        "security":"aes-256-gcm",
+        "tls":""
     },
     {
         "active":true,
@@ -63,13 +45,13 @@
         "type":"none"
     },
     {
-        "address":"122.192.189.41",
+        "address":"global-transit-01-hk.baipiao.de",
         "alterId":2,
-        "host":"167.179.80.15",
-        "id":"08d17cf4-579f-3451-b8d3-ed8fee10528d",
+        "host":"",
+        "id":"39493d0a-902e-3d53-b9a2-c1efd1ff5358",
         "network":"ws",
         "path":"/",
-        "port":"15008",
+        "port":1112,
         "protocol":"vmess",
         "ps":"地球3",
         "security":"auto",
@@ -91,17 +73,12 @@
         "type":"none"
     },
     {
-        "address":"173.82.245.155",
-        "alterId":2,
-        "host":"173.82.245.155",
-        "id":"08d17cf4-579f-3451-b8d3-ed8fee10528d",
-        "network":"ws",
-        "path":"/",
-        "port":"80",
-        "protocol":"vmess",
-        "ps":"地球5",
-        "security":"auto",
-        "tls":"",
-        "type":"none"
+        "address":"27.255.77.195",
+        "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
+        "network":"tcp",
+        "port":33992,
+        "protocol":"shadowsocks",
+        "ps":"韩国S76",
+        "security":"aes-256-gcm"
     }
 ]
