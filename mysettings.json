@@ -12,7 +12,18 @@
         "ps":"AL_22",
         "security":"aes-256-gcm",
         "tls":""
-    },
+    }
+,
+    {
+        "address":"89.187.163.130",
+        "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
+        "network":"tcp",
+        "port":33992,
+        "protocol":"shadowsocks",
+        "ps":"新加坡S110",
+        "security":"aes-256-gcm"
+    }
+,
     {
         "active":true,
         "address":"124.244.186.121",
@@ -23,7 +34,7 @@
         "path":"/add76314/",
         "port":443,
         "protocol":"vmess",
-        "ps":"地球1",
+        "ps":"地球2",
         "security":"auto",
         "sni":"centos.fuchau.xyz",
         "tls":"tls",
@@ -38,38 +49,10 @@
         "path":"/pucloud",
         "port":443,
         "protocol":"vmess",
-        "ps":"地球2",
+        "ps":"地球3",
         "security":"auto",
         "sni":"l1-sg-a-01.pucdn.me",
         "tls":"tls",
-        "type":"none"
-    },
-    {
-        "address":"global-transit-01-hk.baipiao.de",
-        "alterId":2,
-        "host":"",
-        "id":"39493d0a-902e-3d53-b9a2-c1efd1ff5358",
-        "network":"ws",
-        "path":"/",
-        "port":1112,
-        "protocol":"vmess",
-        "ps":"地球3",
-        "security":"auto",
-        "tls":"",
-        "type":"none"
-    },
-    {
-        "address":"125.46.40.166",
-        "alterId":2,
-        "host":"",
-        "id":"39493d0a-902e-3d53-b9a2-c1efd1ff5358",
-        "network":"ws",
-        "path":"/",
-        "port":"109",
-        "protocol":"vmess",
-        "ps":"地球4",
-        "security":"auto",
-        "tls":"",
         "type":"none"
     },
     {
@@ -78,7 +61,36 @@
         "network":"tcp",
         "port":33992,
         "protocol":"shadowsocks",
-        "ps":"韩国S76",
-        "security":"aes-256-gcm"
+        "ps":"地球1",
+        "security":"aes-256-gcm",
+        "tls":""
+    },
+    {
+        "address":"v112.mxv2ssr.xyz",
+        "alterId":2,
+        "host":"v112.mxv2ssr.xyz",
+        "id":"fb1f9967-1280-3c49-b897-a203ea7500cb",
+        "network":"ws",
+        "path":"/hls/cctv5phd.m3u8",
+        "port":"41112",
+        "protocol":"vmess",
+        "ps":"地球4",
+        "security":"auto",
+        "tls":"tls",
+        "type":"none"
+    },
+    {
+        "address":"v118.mxv2ssr.xyz",
+        "alterId":2,
+        "host":"",
+        "id":"fb1f9967-1280-3c49-b897-a203ea7500cb",
+        "network":"tcp",
+        "path":"",
+        "port":"41118",
+        "protocol":"vmess",
+        "ps":"地球5",
+        "security":"auto",
+        "tls":"",
+        "type":"none"
     }
 ]
