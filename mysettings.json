@@ -1,69 +1,59 @@
 [
     {
-        "active":true,
-        "address":"31.171.154.149",
-        "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
-        "plugin":"",
-        "plugin_opts":{
-
-        },
-        "port":33992,
-        "protocol":"shadowsocks",
-        "ps":"AL_22",
-        "security":"aes-256-gcm",
-        "tls":""
-    }
-,
-    {
-        "address":"89.187.163.130",
-        "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
-        "network":"tcp",
-        "port":33992,
-        "protocol":"shadowsocks",
-        "ps":"新加坡S110",
-        "security":"aes-256-gcm"
-    }
-,
-    {
-        "active":true,
-        "address":"124.244.186.121",
-        "alterId":2,
-        "host":"centos.fuchau.xyz",
-        "id":"b707c9e6-3a61-4f0b-8844-9a398cfadfb7",
-        "network":"ws",
-        "path":"/add76314/",
-        "port":443,
-        "protocol":"vmess",
-        "ps":"地球2",
-        "security":"auto",
-        "sni":"centos.fuchau.xyz",
-        "tls":"tls",
-        "type":"none"
-    },
-    {
-        "address":"183.239.70.171",
-        "alterId":2,
-        "host":"l1-sg-a-01.pucdn.me",
-        "id":"39493d0a-902e-3d53-b9a2-c1efd1ff5358",
-        "network":"ws",
-        "path":"/pucloud",
-        "port":443,
-        "protocol":"vmess",
-        "ps":"地球3",
-        "security":"auto",
-        "sni":"l1-sg-a-01.pucdn.me",
-        "tls":"tls",
-        "type":"none"
-    },
-    {
         "address":"27.255.77.195",
         "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
         "network":"tcp",
         "port":33992,
         "protocol":"shadowsocks",
         "ps":"地球1",
-        "security":"aes-256-gcm",
-        "tls":""
+        "security":"aes-256-gcm"
+    },
+    {
+        "address":"211.95.53.39",
+        "alterId":2,
+        "host":"l1-in-01.mucdn.me",
+        "id":"b8a66664-6d13-39d9-bd43-e3948e6b3979",
+        "network":"ws",
+        "path":"/mugua",
+        "port":443,
+        "protocol":"vmess",
+        "ps":"地球2",
+        "security":"auto",
+        "sni":"l1-in-01.mucdn.me",
+        "tls":"tls",
+        "type":"none"
+    },
+    {
+        "address":"89.187.163.130",
+        "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
+        "network":"tcp",
+        "port":33992,
+        "protocol":"shadowsocks",
+        "ps":"地球3",
+        "security":"aes-256-gcm"
+    },
+    {
+        "address":"124.244.186.121",
+        "alterId":2,
+        "host":"centos.fuchau.xyz",
+        "id":"b707c9e6-3a61-4f0b-8844-9a398cfadfb7",
+        "network":"ws",
+        "path":"/add76314/",
+        "port":"443",
+        "protocol":"vmess",
+        "ps":"地球4",
+        "security":"auto",
+        "tls":"tls",
+        "type":"none"
+    },
+    {
+        "address":"31.171.154.149",
+        "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
+        "network":"tcp",
+        "port":33992,
+        "protocol":"shadowsocks",
+        "ps":"地球5",
+        "security":"aes-256-gcm"
     },
     {
         "address":"v112.mxv2ssr.xyz",
@@ -74,23 +64,24 @@
         "path":"/hls/cctv5phd.m3u8",
         "port":"41112",
         "protocol":"vmess",
-        "ps":"地球4",
+        "ps":"地球6",
         "security":"auto",
         "tls":"tls",
         "type":"none"
     },
     {
-        "address":"v118.mxv2ssr.xyz",
+        "address":"v120.mxv2ssr.xyz",
         "alterId":2,
-        "host":"",
+        "host":"v120.mxv2ssr.xyz",
         "id":"fb1f9967-1280-3c49-b897-a203ea7500cb",
-        "network":"tcp",
-        "path":"",
-        "port":"41118",
+        "network":"ws",
+        "path":"/hls/cctv5phd.m3u8",
+        "port":41120,
         "protocol":"vmess",
-        "ps":"地球5",
+        "ps":"地球7",
         "security":"auto",
-        "tls":"",
+        "sni":"v120.mxv2ssr.xyz",
+        "tls":"tls",
         "type":"none"
     }
 ]
