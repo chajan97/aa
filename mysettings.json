@@ -29,5 +29,29 @@
         "ps":"地球5",
         "security":"aes-256-gcm",
         "tls":""
+    },
+    {
+        "address":"61.14.210.244",
+        "id":"x23Z4LGkGDkThZ9Kaz4DURQp",
+        "network":"tcp",
+        "port":40093,
+        "protocol":"shadowsocks",
+        "ps":"韩国S93",
+        "security":"aes-256-gcm"
+    },
+    {
+        "address":"global-cdn-lt-a-01.mugun.xyz",
+        "alterId":2,
+        "host":"l1-in-01.mucdn.me",
+        "id":"b8a66664-6d13-39d9-bd43-e3948e6b3979",
+        "network":"ws",
+        "path":"/mugua",
+        "port":443,
+        "protocol":"vmess",
+        "ps":"CN_575",
+        "security":"auto",
+        "sni":"l1-in-01.mucdn.me",
+        "tls":"tls",
+        "type":"none"
     }
 ]
