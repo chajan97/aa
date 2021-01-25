@@ -21,21 +21,6 @@
         "tls":""
     },
     {
-        "address":"104.23.138.232",
-        "alterId":64,
-        "host":"nameless-silence-5f13.chentomcat3.workers.dev",
-        "id":"ad806487-2d26-4636-98b6-ab85cc8521f7",
-        "network":"ws",
-        "path":"/",
-        "port":443,
-        "protocol":"vmess",
-        "ps":"MyNode",
-        "security":"auto",
-        "sni":"nameless-silence-5f13.chentomcat3.workers.dev",
-        "tls":"tls",
-        "type":"none"
-    },
-    {
         "address":"j10.yt001.xyz",
         "alterId":2,
         "host":"167.179.80.15",
@@ -74,6 +59,22 @@
         "protocol":"vmess",
         "ps":"地球5",
         "security":"auto",
+        "tls":"tls",
+        "type":"none"
+    },
+    {
+        "active":true,
+        "address":"172.67.224.183",
+        "alterId":64,
+        "host":"nameless-silence-5f13.chentomcat3.workers.dev",
+        "id":"ad806487-2d26-4636-98b6-ab85cc8521f7",
+        "network":"ws",
+        "path":"/",
+        "port":443,
+        "protocol":"vmess",
+        "ps":"MyNode",
+        "security":"auto",
+        "sni":"nameless-silence-5f13.chentomcat3.workers.dev",
         "tls":"tls",
         "type":"none"
     }
