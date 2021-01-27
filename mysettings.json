@@ -6,21 +6,26 @@
         "id":"ad806487-2d26-4636-98b6-ab85cc8521f7",
         "network":"ws",
         "path":"/",
-        "port":"443",
+        "port":443,
         "protocol":"vmess",
         "ps":"MyNode",
         "security":"auto",
+        "sni":"nameless-silence-5f13.chentomcat3.workers.dev",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
     },
     {
+        "active":true,
         "address":"27.255.77.195",
         "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
         "network":"tcp",
         "port":33992,
         "protocol":"shadowsocks",
         "ps":"地球1",
-        "security":"aes-256-gcm"
+        "security":"aes-256-gcm",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
+        "tls":""
     },
     {
         "address":"89.187.163.130",
@@ -29,62 +34,50 @@
         "port":33992,
         "protocol":"shadowsocks",
         "ps":"地球2",
-        "security":"aes-256-gcm"
+        "security":"aes-256-gcm",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
+        "tls":""
     },
     {
-        "address":"j10.yt001.xyz",
-        "alterId":2,
-        "host":"167.179.80.15",
-        "id":"7c6f2348-0ebd-3a1f-a8a0-c3b5629c2e0b",
+        "address":"hk-aga.nayun.xyz",
+        "alterId":0,
+        "host":"",
+        "id":"093c04ac-4836-463f-aa02-2112a1b6455a",
         "network":"ws",
         "path":"/",
-        "port":"15008",
+        "port":10040,
         "protocol":"vmess",
         "ps":"地球3",
         "security":"auto",
         "tls":"",
-        "type":"none"
+        "type":""
     },
     {
-        "address":"k10.yt001.xyz",
+        "address":"j16.yt001.xyz",
         "alterId":2,
-        "host":"158.247.216.127",
+        "host":"13.231.179.102",
         "id":"7c6f2348-0ebd-3a1f-a8a0-c3b5629c2e0b",
         "network":"ws",
         "path":"/",
-        "port":15011,
+        "port":60032,
         "protocol":"vmess",
         "ps":"地球4",
         "security":"auto",
         "tls":"",
-        "type":"none"
+        "type":""
     },
     {
-        "address":"141.101.115.54",
+        "address":"120.232.43.149",
         "alterId":2,
-        "host":"freeus.mcan.tech",
-        "id":"9e6ceeff-2546-3690-ac00-6fcdf31dec94",
+        "host":"",
+        "id":"8e875143-f112-3895-92bf-bdbbad5fc905",
         "network":"ws",
-        "path":"/y284",
-        "port":"443",
+        "path":"/v2ray",
+        "port":51237,
         "protocol":"vmess",
         "ps":"地球5",
         "security":"auto",
-        "tls":"tls",
-        "type":"none"
-    },
-    {
-        "address":"sibyl-system.xyz",
-        "alterId":64,
-        "host":"",
-        "id":"0724b9cd-aaec-401a-b030-8a244baab5d5",
-        "network":"ws",
-        "path":"/",
-        "port":"20000",
-        "protocol":"vmess",
-        "ps":"高速网络1",
-        "security":"auto",
-        "tls":"tls",
-        "type":"none"
+        "tls":"",
+        "type":""
     }
 ]
