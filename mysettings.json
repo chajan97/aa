@@ -39,6 +39,7 @@
         "tls":""
     },
     {
+        "active":true,
         "address":"hk-aga.nayun.xyz",
         "alterId":0,
         "host":"",
@@ -49,20 +50,7 @@
         "protocol":"vmess",
         "ps":"地球3",
         "security":"auto",
-        "tls":"",
-        "type":""
-    },
-    {
-        "address":"j16.yt001.xyz",
-        "alterId":2,
-        "host":"13.231.179.102",
-        "id":"7c6f2348-0ebd-3a1f-a8a0-c3b5629c2e0b",
-        "network":"ws",
-        "path":"/",
-        "port":60032,
-        "protocol":"vmess",
-        "ps":"地球4",
-        "security":"auto",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
         "type":""
     },
@@ -77,7 +65,22 @@
         "protocol":"vmess",
         "ps":"地球5",
         "security":"auto",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
+        "type":""
+    },
+    {
+        "address":"183.239.70.171",
+        "alterId":2,
+        "host":"l1-sg-a-01.pucdn.me",
+        "id":"39493d0a-902e-3d53-b9a2-c1efd1ff5358",
+        "network":"ws",
+        "path":"/pucloud",
+        "port":443,
+        "protocol":"vmess",
+        "ps":"地球4",
+        "security":"auto",
+        "tls":"tls",
         "type":""
     }
 ]
