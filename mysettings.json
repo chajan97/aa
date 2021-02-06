@@ -20,7 +20,8 @@
         "port":33992,
         "protocol":"shadowsocks",
         "ps":"地球1",
-        "security":"aes-256-gcm"
+        "security":"aes-256-gcm",
+        "tls":""
     },
     {
         "address":"185.172.113.126",
@@ -29,7 +30,8 @@
         "port":14116,
         "protocol":"shadowsocks",
         "ps":"地球2",
-        "security":"aes-256-gcm"
+        "security":"aes-256-gcm",
+        "tls":""
     },
     {
         "address":"185.242.4.163",
@@ -38,7 +40,8 @@
         "port":33992,
         "protocol":"shadowsocks",
         "ps":"地球3",
-        "security":"aes-256-gcm"
+        "security":"aes-256-gcm",
+        "tls":""
     },
     {
         "address":"45.87.213.243",
@@ -47,7 +50,8 @@
         "port":33992,
         "protocol":"shadowsocks",
         "ps":"地球4",
-        "security":"aes-256-gcm"
+        "security":"aes-256-gcm",
+        "tls":""
     },
     {
         "address":"89.187.161.241",
@@ -56,7 +60,8 @@
         "port":37473,
         "protocol":"shadowsocks",
         "ps":"地球5",
-        "security":"aes-256-gcm"
+        "security":"aes-256-gcm",
+        "tls":""
     },
     {
         "address":"122.192.189.41",
@@ -65,7 +70,7 @@
         "id":"8355cbc9-557d-3bac-8d02-56bbaf606df9",
         "network":"ws",
         "path":"/",
-        "port":"40006",
+        "port":40006,
         "protocol":"vmess",
         "ps":"地球6",
         "security":"auto",
@@ -79,55 +84,30 @@
         "port":39772,
         "protocol":"shadowsocks",
         "ps":"地球7",
-        "security":"aes-256-gcm"
+        "security":"aes-256-gcm",
+        "tls":""
     },
     {
+        "active":true,
         "address":"84.17.34.24",
         "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
         "network":"tcp",
         "port":33992,
         "protocol":"shadowsocks",
         "ps":"地球8",
-        "security":"aes-256-gcm"
+        "security":"aes-256-gcm",
+        "tls":""
     },
     {
-        "address":"ali-los-001.bujidao.org",
-        "alterId":1,
-        "host":"v2-pr-001.cccccc.cc",
-        "id":"c6ac788f-f8f3-32b3-9207-467b7eab6467",
+        "address":"tw.v2ssvps.com",
+        "alterId":2,
+        "host":"tw.v2ssvps.com",
+        "id":"8355cbc9-557d-3bac-8d02-56bbaf606df9",
         "network":"ws",
-        "path":"/xiaodao",
-        "port":"80",
+        "path":"/",
+        "port":"60034",
         "protocol":"vmess",
         "ps":"地球9",
-        "security":"auto",
-        "tls":"",
-        "type":"none"
-    },
-    {
-        "address":"gzyd.tanzcloud.xyz",
-        "alterId":1,
-        "host":"",
-        "id":"f14864b7-4116-3d20-ad9e-72e93d662e4d",
-        "network":"ws",
-        "path":"/video",
-        "port":"32421",
-        "protocol":"vmess",
-        "ps":"地球10",
-        "security":"auto",
-        "tls":"",
-        "type":"none"
-    },
-    {
-        "address":"cscu.tanzcloud.xyz",
-        "alterId":1,
-        "host":"",
-        "id":"f14864b7-4116-3d20-ad9e-72e93d662e4d",
-        "network":"ws",
-        "path":"/video",
-        "port":"10005",
-        "protocol":"vmess",
-        "ps":"地球11",
         "security":"auto",
         "tls":"",
         "type":"none"
