@@ -1,34 +1,31 @@
 [
     {
-        "address":"104.19.21.97",
+        "address":"172.67.108.196",
         "alterId":64,
         "host":"nameless-silence-5f13.chentomcat3.workers.dev",
         "id":"ad806487-2d26-4636-98b6-ab85cc8521f7",
         "network":"ws",
         "path":"/",
-        "port":"443",
+        "port":443,
         "protocol":"vmess",
         "ps":"MyNode",
         "security":"auto",
+        "sni":"nameless-silence-5f13.chentomcat3.workers.dev",
         "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"tls",
         "type":"none"
     },
     {
         "active":true,
-        "address":"cszz.qlssvip.xyz",
-        "alterId":1,
-        "host":"",
-        "id":"8d94e707-6a0c-309e-9caa-117ab48b6fcd",
-        "network":"ws",
-        "path":"/xy-azhk1",
-        "port":18010,
-        "protocol":"vmess",
+        "address":"192.34.83.236",
+        "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
+        "network":"tcp",
+        "port":33992,
+        "protocol":"shadowsocks",
         "ps":"地球1",
-        "security":"auto",
-        "subscribeUrl":"https://proxypool.ga/vmess/sub",
-        "tls":"",
-        "type":""
+        "security":"aes-256-gcm",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
+        "tls":""
     },
     {
         "active":true,
@@ -43,15 +40,19 @@
         "tls":""
     },
     {
-        "address":"185.242.4.163",
-        "id":"8n6pwAcrrv2pj6tFY2p3TbQ6",
-        "network":"tcp",
-        "port":33992,
-        "protocol":"shadowsocks",
+        "active":true,
+        "address":"52.221.245.123",
+        "alterId":1,
+        "host":"awsxjp1.qlssvip.xyz",
+        "id":"bab942ca-c98c-478a-8b24-0bb292af6c92",
+        "network":"ws",
+        "path":"/",
+        "port":30002,
+        "protocol":"vmess",
         "ps":"地球3",
-        "security":"aes-256-gcm",
-        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
-        "tls":""
+        "security":"auto",
+        "tls":"",
+        "type":"none"
     },
     {
         "address":"45.87.213.243",
@@ -65,27 +66,12 @@
         "tls":""
     },
     {
-        "address":"122.192.189.41",
-        "alterId":2,
-        "host":"167.179.68.228",
-        "id":"8355cbc9-557d-3bac-8d02-56bbaf606df9",
-        "network":"ws",
-        "path":"/",
-        "port":40006,
-        "protocol":"vmess",
-        "ps":"地球5",
-        "security":"auto",
-        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
-        "tls":"",
-        "type":"none"
-    },
-    {
         "address":"185.210.217.109",
         "id":"CUndSZnYsPKcu6Kj8THVMBHD",
         "network":"tcp",
         "port":39772,
         "protocol":"shadowsocks",
-        "ps":"地球6",
+        "ps":"地球5",
         "security":"aes-256-gcm",
         "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":""
@@ -100,13 +86,14 @@
         "path":"/",
         "port":40005,
         "protocol":"vmess",
-        "ps":"地球7",
+        "ps":"地球6",
         "security":"auto",
-        "subscribeUrl":"https://proxypool.ga/vmess/sub",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
         "type":""
     },
     {
+        "active":true,
         "address":"122.192.189.41",
         "alterId":2,
         "host":"108.160.142.152",
@@ -115,9 +102,9 @@
         "path":"/",
         "port":40004,
         "protocol":"vmess",
-        "ps":"地球8",
+        "ps":"地球7",
         "security":"auto",
-        "subscribeUrl":"https://proxypool.ga/vmess/sub",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
         "tls":"",
         "type":""
     }
