@@ -99,6 +99,36 @@
         "port":37588,
         "protocol":"shadowsocks",
         "ps":"地球7",
-        "security":"aes-256-gcm"
+        "security":"aes-256-gcm",
+        "subscribeUrl":"https://gitee.com/chajan/proxy/raw/master/mysettings.json",
+        "tls":""
+    },
+    {
+        "address":"sheshouzuo.best",
+        "alterId":3,
+        "host":"sheshouzuo.best",
+        "id":"d5c989e2-42b5-3916-a649-edade1310739",
+        "network":"ws",
+        "path":"/ray",
+        "port":443,
+        "protocol":"vmess",
+        "ps":"地球8",
+        "security":"auto",
+        "tls":"tls",
+        "type":""
+    },
+    {
+        "address":"shirupozhu.xyz",
+        "alterId":3,
+        "host":"shirupozhu.xyz",
+        "id":"d5c989e2-42b5-3916-a649-edade1310739",
+        "network":"ws",
+        "path":"/ray",
+        "port":443,
+        "protocol":"vmess",
+        "ps":"地球9",
+        "security":"auto",
+        "tls":"tls",
+        "type":""
     }
 ]
